@@ -1,3 +1,7 @@
+# General overview of the Electronics Store
+
+![Electronics Store](https://user-images.githubusercontent.com/106800118/190904267-7a693a77-7ed7-419d-8a72-9696dd9dca5d.gif)
+
 # Electronics Store
 
 The E-Store app is a platform for small purchases. Allows users online, through a mobile application, 
@@ -11,7 +15,3 @@ to form a purchase order, choose a method of payment and delivery of the order, 
 * Add to cart or pay immediately;
 
 To implement this functionality, I used `Java`, for the database `Firebase` and other tools.
-
-# General overview of the Electronics Store
-
-https://user-images.githubusercontent.com/106800118/190903925-57f76428-f6d8-4499-8d53-1d913110ecdb.mp4
